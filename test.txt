@@ -1,1 +1,6 @@
 just test
+<<<<<<< HEAD
+=======
+主线！
+>>>>>>> master
+new re2!
