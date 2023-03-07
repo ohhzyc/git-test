@@ -3,4 +3,7 @@ just test
 =======
 主线！
 >>>>>>> master
+<<<<<<< HEAD
 new re2!
+=======
+>>>>>>> df01c5ab251eb2eb8b6de06e3fe9a5c2d3f47749
